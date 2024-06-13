@@ -7,7 +7,6 @@
     <mapping directory="$PROJECT_DIR$/AsalSayiProgrami" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BHarfiYazmaProgrami" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BasamakSayisiToplami" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/BoksMaciOdev" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Burclar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CastingPractice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CiftSayiProgrami" vcs="Git" />
@@ -23,14 +22,11 @@
     <mapping directory="$PROJECT_DIR$/HesapMakinesi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/KucuktenBuyugeOdev" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/KullaniciGirisi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MaasHesaplayici" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ManavKasaProgrami" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MatrisTranspozuOdev" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MaxMinDegerArray" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MayinTarlasiProje" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MinMaxDegerBulma" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MukemmelSayi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/OgrenciBilgiSistemi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OrtalamaBulanProgram" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OrtalamaHesaplama" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PalindromSayi" vcs="Git" />
@@ -44,7 +40,6 @@
     <mapping directory="$PROJECT_DIR$/TekrarEdenSayilarOdev" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TersUcgen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UcakGrupProjesi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/UstluSayiProgrami" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/VucutKitleEndeksi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/YildizProgrami" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/asalSayiRecursive" vcs="Git" />

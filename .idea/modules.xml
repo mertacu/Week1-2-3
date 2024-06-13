@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/BHarfiYazmaProgrami/BHarfiYazmaProgrami.iml" filepath="$PROJECT_DIR$/BHarfiYazmaProgrami/BHarfiYazmaProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasamakSayisiToplami/BasamakSayisiToplami.iml" filepath="$PROJECT_DIR$/BasamakSayisiToplami/BasamakSayisiToplami.iml" />
       <module fileurl="file://$PROJECT_DIR$/BetweenClassesRelations/BetweenClassesRelations.iml" filepath="$PROJECT_DIR$/BetweenClassesRelations/BetweenClassesRelations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BoksMaciOdev/BoksMaciOdev.iml" filepath="$PROJECT_DIR$/BoksMaciOdev/BoksMaciOdev.iml" />
       <module fileurl="file://$PROJECT_DIR$/Burclar/Burclar.iml" filepath="$PROJECT_DIR$/Burclar/Burclar.iml" />
       <module fileurl="file://$PROJECT_DIR$/CastingPractice/CastingPractice.iml" filepath="$PROJECT_DIR$/CastingPractice/CastingPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiftSayiProgrami/CiftSayiProgrami.iml" filepath="$PROJECT_DIR$/CiftSayiProgrami/CiftSayiProgrami.iml" />
@@ -24,14 +23,11 @@
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/KucuktenBuyugeOdev/KucuktenBuyugeOdev.iml" filepath="$PROJECT_DIR$/KucuktenBuyugeOdev/KucuktenBuyugeOdev.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" filepath="$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/MatrisTranspozuOdev/MatrisTranspozuOdev.iml" filepath="$PROJECT_DIR$/MatrisTranspozuOdev/MatrisTranspozuOdev.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxMinDegerArray/MaxMinDegerArray.iml" filepath="$PROJECT_DIR$/MaxMinDegerArray/MaxMinDegerArray.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MayinTarlasiProje/MayinTarlasiProje.iml" filepath="$PROJECT_DIR$/MayinTarlasiProje/MayinTarlasiProje.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxDegerBulma/MinMaxDegerBulma.iml" filepath="$PROJECT_DIR$/MinMaxDegerBulma/MinMaxDegerBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrtalamaBulanProgram/OrtalamaBulanProgram.iml" filepath="$PROJECT_DIR$/OrtalamaBulanProgram/OrtalamaBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrtalamaHesaplama/OrtalamaHesaplama.iml" filepath="$PROJECT_DIR$/OrtalamaHesaplama/OrtalamaHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
@@ -45,14 +41,12 @@
       <module fileurl="file://$PROJECT_DIR$/TekrarEdenSayilarOdev/TekrarEdenSayilarOdev.iml" filepath="$PROJECT_DIR$/TekrarEdenSayilarOdev/TekrarEdenSayilarOdev.iml" />
       <module fileurl="file://$PROJECT_DIR$/TersUcgen/TersUcgen.iml" filepath="$PROJECT_DIR$/TersUcgen/TersUcgen.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcakGrupProjesi/UcakGrupProjesi.iml" filepath="$PROJECT_DIR$/UcakGrupProjesi/UcakGrupProjesi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UstluSayiProgrami/UstluSayiProgrami.iml" filepath="$PROJECT_DIR$/UstluSayiProgrami/UstluSayiProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/VucutKitleEndeksi/VucutKitleEndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleEndeksi/VucutKitleEndeksi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Week1-2-3.iml" filepath="$PROJECT_DIR$/.idea/Week1-2-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/YildizProgrami/YildizProgrami.iml" filepath="$PROJECT_DIR$/YildizProgrami/YildizProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/asalSayiRecursive/asalSayiRecursive.iml" filepath="$PROJECT_DIR$/asalSayiRecursive/asalSayiRecursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/daireninAlani/daireninAlani.iml" filepath="$PROJECT_DIR$/daireninAlani/daireninAlani.iml" />
       <module fileurl="file://$PROJECT_DIR$/islemOnceligi/islemOnceligi.iml" filepath="$PROJECT_DIR$/islemOnceligi/islemOnceligi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java101/java101.iml" filepath="$PROJECT_DIR$/java101/java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaPatikasi/javaPatikasi.iml" filepath="$PROJECT_DIR$/javaPatikasi/javaPatikasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvTutarHesaplama/kdvTutarHesaplama.iml" filepath="$PROJECT_DIR$/kdvTutarHesaplama/kdvTutarHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/taksimetreHesaplama/taksimetreHesaplama.iml" filepath="$PROJECT_DIR$/taksimetreHesaplama/taksimetreHesaplama.iml" />
